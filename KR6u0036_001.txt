@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:55:43.332149
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:03
 #+TITLE: 齋法清淨經
 #+PROPERTY: CBETA_ID T85n2900
 #+PROPERTY: ID KR6u0036
