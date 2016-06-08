@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:55:43.332149
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:03
 #+TITLE: 齋法清淨經
 #+PROPERTY: CBETA_ID T85n2900
 #+PROPERTY: ID KR6u0036
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2900
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6u0036_T_001-1431c> 
 #+PROPERTY: JUAN 1
 ¶
-No.2900¶
-
- 佛說齋法清淨經¶
+No. 2900¶
+佛說齋法清淨經¶
 ¶
 
 如是我聞。一時佛在竹林精舍。與二百五十¶
